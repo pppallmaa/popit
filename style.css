@@ -1,0 +1,68 @@
+*{
+    box-sizing: border-box;
+}
+header{
+    height: 40vh;
+   width:100%;
+    background:rgb(255, 199, 125);
+
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 2vh;
+}
+.right{
+display: flex;
+flex-direction: row;
+justify-content:flex-end;
+
+}
+.rightt{
+    margin: 0 3vh;
+}
+h1{
+    color:white;
+width:50vh ;
+   font-size: 5rem;
+  
+}
+.popit{
+    display: block;
+    line-height: 1em;
+
+    margin-left: 10vh;
+
+}
+p{
+    margin-top: 0;
+    color:white;
+     width: 50%;
+margin-bottom: 0;
+}
+.buy{
+    padding-left: 10vh;
+    
+}
+.buyy{
+    background:aqua;
+    display: inline;
+    padding: 1vh 3vh;
+    position: absolute;
+}
+.smth{
+    position: absolute;
+    top: 3vh;
+width: 40vh ;
+height: 40vh;
+display:inline;
+float: left;
+margin-top: 3vh;
+padding-right: 5vh;
+}
+.img{
+    display: flex;
+    justify-content: flex-end;
+
+}
